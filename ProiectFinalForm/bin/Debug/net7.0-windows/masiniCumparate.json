@@ -1,0 +1,40 @@
+{
+  "$type": "SistemDeVanzariAuto.ListaMasini, ProiectFinal",
+  "$values": [
+    {
+      "$type": "SistemDeVanzariAuto.MasinaPeCombustibil, ProiectFinal",
+      "capacitateMotor": 2600,
+      "caiPutere": 300,
+      "rezervor": 90,
+      "marca": "BMW",
+      "model": "X6",
+      "caroserie": "Sedan",
+      "culoare": "Negru",
+      "anProductie": 2020,
+      "pret": 15000
+    },
+    {
+      "$type": "SistemDeVanzariAuto.MasinaPeCombustibil, ProiectFinal",
+      "capacitateMotor": 3000,
+      "caiPutere": 250,
+      "rezervor": 100,
+      "marca": "Volvo",
+      "model": "XC90",
+      "caroserie": "Sedan",
+      "culoare": "Negru",
+      "anProductie": 2020,
+      "pret": 40000
+    },
+    {
+      "$type": "SistemDeVanzariAuto.MasinaElectrica, ProiectFinal",
+      "capacitateBaterie": 900,
+      "autonomie": 600,
+      "marca": "Tesla",
+      "model": "ModelY",
+      "caroserie": "Sedan",
+      "culoare": "Alb",
+      "anProductie": 2023,
+      "pret": 15000
+    }
+  ]
+}

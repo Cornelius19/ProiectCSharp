@@ -1,0 +1,25 @@
+{
+  "$type": "SistemDeVanzariAuto.ListaUser, ProiectFinal",
+  "$values": [
+    {
+      "$type": "SistemDeVanzariAuto.Admin, ProiectFinal",
+      "adresa": "Strada A nr 5",
+      "status": "Admin",
+      "numeComplet": "Museteanu Corneliu",
+      "varsta": 23,
+      "numarTelefon": 785551559,
+      "username": "admin",
+      "password": "passpass"
+    },
+    {
+      "$type": "SistemDeVanzariAuto.Client, ProiectFinal",
+      "balance": 4990,
+      "status": "Client",
+      "numeComplet": "Sorina Damaschin",
+      "varsta": 22,
+      "numarTelefon": 795556221,
+      "username": "client",
+      "password": "passpass"
+    }
+  ]
+}

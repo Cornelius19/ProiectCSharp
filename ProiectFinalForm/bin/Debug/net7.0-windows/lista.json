@@ -1,0 +1,52 @@
+{
+  "$type": "SistemDeVanzariAuto.ListaMasini, ProiectFinal",
+  "$values": [
+    {
+      "$type": "SistemDeVanzariAuto.MasinaPeCombustibil, ProiectFinal",
+      "capacitateMotor": 3500,
+      "caiPutere": 390,
+      "rezervor": 90,
+      "marca": "Ferrari",
+      "model": "F3",
+      "caroserie": "Coupe",
+      "culoare": "Rosie",
+      "anProductie": 2023,
+      "pret": 30000
+    },
+    {
+      "$type": "SistemDeVanzariAuto.MasinaElectrica, ProiectFinal",
+      "capacitateBaterie": 600,
+      "autonomie": 800,
+      "marca": "Porche",
+      "model": "Taycan",
+      "caroserie": "Sedan",
+      "culoare": "Gri",
+      "anProductie": 2021,
+      "pret": 30000
+    },
+    {
+      "$type": "SistemDeVanzariAuto.MasinaPeCombustibil, ProiectFinal",
+      "capacitateMotor": 2500,
+      "caiPutere": 250,
+      "rezervor": 90,
+      "marca": "BMW",
+      "model": "X5",
+      "caroserie": "Sedan",
+      "culoare": "Negru",
+      "anProductie": 2020,
+      "pret": 15000
+    },
+    {
+      "$type": "SistemDeVanzariAuto.MasinaPeCombustibil, ProiectFinal",
+      "capacitateMotor": 1800,
+      "caiPutere": 200,
+      "rezervor": 90,
+      "marca": "BMW",
+      "model": "X6",
+      "caroserie": "Sedan",
+      "culoare": "Negru",
+      "anProductie": 2020,
+      "pret": 15000
+    }
+  ]
+}

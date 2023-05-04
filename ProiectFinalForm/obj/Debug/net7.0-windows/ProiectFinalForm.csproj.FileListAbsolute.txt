@@ -1,0 +1,52 @@
+D:\Anul 2\Sem2\C#\Proiect\ProiectFinalForm\ProiectFinalForm\bin\Debug\net7.0-windows\ProiectFinalForm.exe
+D:\Anul 2\Sem2\C#\Proiect\ProiectFinalForm\ProiectFinalForm\bin\Debug\net7.0-windows\ProiectFinalForm.deps.json
+D:\Anul 2\Sem2\C#\Proiect\ProiectFinalForm\ProiectFinalForm\bin\Debug\net7.0-windows\ProiectFinalForm.runtimeconfig.json
+D:\Anul 2\Sem2\C#\Proiect\ProiectFinalForm\ProiectFinalForm\bin\Debug\net7.0-windows\ProiectFinalForm.dll
+D:\Anul 2\Sem2\C#\Proiect\ProiectFinalForm\ProiectFinalForm\bin\Debug\net7.0-windows\ProiectFinalForm.pdb
+D:\Anul 2\Sem2\C#\Proiect\ProiectFinalForm\ProiectFinalForm\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+D:\Anul 2\Sem2\C#\Proiect\ProiectFinalForm\ProiectFinalForm\bin\Debug\net7.0-windows\ProiectFinal.dll
+D:\Anul 2\Sem2\C#\Proiect\ProiectFinalForm\ProiectFinalForm\bin\Debug\net7.0-windows\ProiectFinal.pdb
+D:\Anul 2\Sem2\C#\Proiect\ProiectFinalForm\ProiectFinalForm\obj\Debug\net7.0-windows\ProiectFinalForm.csproj.AssemblyReference.cache
+D:\Anul 2\Sem2\C#\Proiect\ProiectFinalForm\ProiectFinalForm\obj\Debug\net7.0-windows\ProiectFinalForm.InterfataAdmin.resources
+D:\Anul 2\Sem2\C#\Proiect\ProiectFinalForm\ProiectFinalForm\obj\Debug\net7.0-windows\ProiectFinalForm.csproj.GenerateResource.cache
+D:\Anul 2\Sem2\C#\Proiect\ProiectFinalForm\ProiectFinalForm\obj\Debug\net7.0-windows\ProiectFinalForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Anul 2\Sem2\C#\Proiect\ProiectFinalForm\ProiectFinalForm\obj\Debug\net7.0-windows\ProiectFinalForm.AssemblyInfoInputs.cache
+D:\Anul 2\Sem2\C#\Proiect\ProiectFinalForm\ProiectFinalForm\obj\Debug\net7.0-windows\ProiectFinalForm.AssemblyInfo.cs
+D:\Anul 2\Sem2\C#\Proiect\ProiectFinalForm\ProiectFinalForm\obj\Debug\net7.0-windows\ProiectFinalForm.csproj.CoreCompileInputs.cache
+D:\Anul 2\Sem2\C#\Proiect\ProiectFinalForm\ProiectFinalForm\obj\Debug\net7.0-windows\ProiectFinalForm.csproj.CopyComplete
+D:\Anul 2\Sem2\C#\Proiect\ProiectFinalForm\ProiectFinalForm\obj\Debug\net7.0-windows\ProiectFinalForm.dll
+D:\Anul 2\Sem2\C#\Proiect\ProiectFinalForm\ProiectFinalForm\obj\Debug\net7.0-windows\refint\ProiectFinalForm.dll
+D:\Anul 2\Sem2\C#\Proiect\ProiectFinalForm\ProiectFinalForm\obj\Debug\net7.0-windows\ProiectFinalForm.pdb
+D:\Anul 2\Sem2\C#\Proiect\ProiectFinalForm\ProiectFinalForm\obj\Debug\net7.0-windows\ProiectFinalForm.genruntimeconfig.cache
+D:\Anul 2\Sem2\C#\Proiect\ProiectFinalForm\ProiectFinalForm\obj\Debug\net7.0-windows\ref\ProiectFinalForm.dll
+D:\Anul 2\Sem2\C#\Proiect\ProiectFinalForm\ProiectFinalForm\obj\Debug\net7.0-windows\ProiectFinalForm.AdaugaMasinaCombustibil.resources
+D:\Anul 2\Sem2\C#\Proiect\ProiectFinalForm\ProiectFinalForm\obj\Debug\net7.0-windows\ProiectFinalForm.AdaugareMasinaElectrica.resources
+D:\Anul 2\Sem2\C#\Proiect\ProiectFinalForm\ProiectFinalForm\obj\Debug\net7.0-windows\ProiectFinalForm.Logare.resources
+D:\Anul 2\Sem2\C#\Proiect\ProiectFinalForm\ProiectFinalForm\obj\Debug\net7.0-windows\ProiectFinalForm.InterfataClient.resources
+D:\Anul 2\Sem2\C#\Proiect\ProiectFinalForm\ProiectFinalForm\obj\Debug\net7.0-windows\ProiectFinalForm.CreareCont.resources
+D:\Anul 2\Sem2\C#\Copie Proict\Proiect\ProiectFinalForm\ProiectFinalForm\bin\Debug\net7.0-windows\ProiectFinalForm.exe
+D:\Anul 2\Sem2\C#\Copie Proict\Proiect\ProiectFinalForm\ProiectFinalForm\bin\Debug\net7.0-windows\ProiectFinalForm.deps.json
+D:\Anul 2\Sem2\C#\Copie Proict\Proiect\ProiectFinalForm\ProiectFinalForm\bin\Debug\net7.0-windows\ProiectFinalForm.runtimeconfig.json
+D:\Anul 2\Sem2\C#\Copie Proict\Proiect\ProiectFinalForm\ProiectFinalForm\bin\Debug\net7.0-windows\ProiectFinalForm.dll
+D:\Anul 2\Sem2\C#\Copie Proict\Proiect\ProiectFinalForm\ProiectFinalForm\bin\Debug\net7.0-windows\ProiectFinalForm.pdb
+D:\Anul 2\Sem2\C#\Copie Proict\Proiect\ProiectFinalForm\ProiectFinalForm\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+D:\Anul 2\Sem2\C#\Copie Proict\Proiect\ProiectFinalForm\ProiectFinalForm\bin\Debug\net7.0-windows\ProiectFinal.dll
+D:\Anul 2\Sem2\C#\Copie Proict\Proiect\ProiectFinalForm\ProiectFinalForm\bin\Debug\net7.0-windows\ProiectFinal.pdb
+D:\Anul 2\Sem2\C#\Copie Proict\Proiect\ProiectFinalForm\ProiectFinalForm\obj\Debug\net7.0-windows\ProiectFinalForm.csproj.AssemblyReference.cache
+D:\Anul 2\Sem2\C#\Copie Proict\Proiect\ProiectFinalForm\ProiectFinalForm\obj\Debug\net7.0-windows\ProiectFinalForm.AdaugaMasinaCombustibil.resources
+D:\Anul 2\Sem2\C#\Copie Proict\Proiect\ProiectFinalForm\ProiectFinalForm\obj\Debug\net7.0-windows\ProiectFinalForm.AdaugareMasinaElectrica.resources
+D:\Anul 2\Sem2\C#\Copie Proict\Proiect\ProiectFinalForm\ProiectFinalForm\obj\Debug\net7.0-windows\ProiectFinalForm.CreareCont.resources
+D:\Anul 2\Sem2\C#\Copie Proict\Proiect\ProiectFinalForm\ProiectFinalForm\obj\Debug\net7.0-windows\ProiectFinalForm.InterfataAdmin.resources
+D:\Anul 2\Sem2\C#\Copie Proict\Proiect\ProiectFinalForm\ProiectFinalForm\obj\Debug\net7.0-windows\ProiectFinalForm.InterfataClient.resources
+D:\Anul 2\Sem2\C#\Copie Proict\Proiect\ProiectFinalForm\ProiectFinalForm\obj\Debug\net7.0-windows\ProiectFinalForm.Logare.resources
+D:\Anul 2\Sem2\C#\Copie Proict\Proiect\ProiectFinalForm\ProiectFinalForm\obj\Debug\net7.0-windows\ProiectFinalForm.csproj.GenerateResource.cache
+D:\Anul 2\Sem2\C#\Copie Proict\Proiect\ProiectFinalForm\ProiectFinalForm\obj\Debug\net7.0-windows\ProiectFinalForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Anul 2\Sem2\C#\Copie Proict\Proiect\ProiectFinalForm\ProiectFinalForm\obj\Debug\net7.0-windows\ProiectFinalForm.AssemblyInfoInputs.cache
+D:\Anul 2\Sem2\C#\Copie Proict\Proiect\ProiectFinalForm\ProiectFinalForm\obj\Debug\net7.0-windows\ProiectFinalForm.AssemblyInfo.cs
+D:\Anul 2\Sem2\C#\Copie Proict\Proiect\ProiectFinalForm\ProiectFinalForm\obj\Debug\net7.0-windows\ProiectFinalForm.csproj.CoreCompileInputs.cache
+D:\Anul 2\Sem2\C#\Copie Proict\Proiect\ProiectFinalForm\ProiectFinalForm\obj\Debug\net7.0-windows\ProiectFinalForm.csproj.CopyComplete
+D:\Anul 2\Sem2\C#\Copie Proict\Proiect\ProiectFinalForm\ProiectFinalForm\obj\Debug\net7.0-windows\ProiectFinalForm.dll
+D:\Anul 2\Sem2\C#\Copie Proict\Proiect\ProiectFinalForm\ProiectFinalForm\obj\Debug\net7.0-windows\refint\ProiectFinalForm.dll
+D:\Anul 2\Sem2\C#\Copie Proict\Proiect\ProiectFinalForm\ProiectFinalForm\obj\Debug\net7.0-windows\ProiectFinalForm.pdb
+D:\Anul 2\Sem2\C#\Copie Proict\Proiect\ProiectFinalForm\ProiectFinalForm\obj\Debug\net7.0-windows\ProiectFinalForm.genruntimeconfig.cache
+D:\Anul 2\Sem2\C#\Copie Proict\Proiect\ProiectFinalForm\ProiectFinalForm\obj\Debug\net7.0-windows\ref\ProiectFinalForm.dll
